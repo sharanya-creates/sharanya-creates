@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sharanya-creates
-- 👀 I’m interested in frontend development and web devolopment
-- 🌱 I’m currently learning html,css.
-- 💞️ I’m looking to collaborate on front end projects where i can learn experiences.
+- 👀 I’m interested in frontend development,data analyst and data science jobs.
+- 🌱 I’m currently learning html,css,dsa,powerbi and python.
+- 💞️ I’m looking to collaborate on data science and data analayst projects i can learn experiences.
 - 📫 u can reach me by linked in profile @sharanyabolem 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: trying to do something but not know what...
+  - fun fact:trying to do something but never works out
 
 <!---
 sharanya-creates/sharanya-creates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
